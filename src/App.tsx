@@ -8,11 +8,7 @@ const App: React.FC = () => {
 
   return (
     <div>
-<<<<<<< HEAD
       <h1>Dynamic Tsx Example Found another</h1>
-=======
-      <h1>Dynamic Tsx Example</h1>
->>>>>>> master
    <Form />
       {/* <button onClick={check}>check</button> */}
     </div>
