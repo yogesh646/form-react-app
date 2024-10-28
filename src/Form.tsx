@@ -30,6 +30,7 @@ import { FormField } from "./FormField";
     }
     return (
     <form>
+      Welcome
        {formFields.map((field)=>{
       switch(field.type){
         case 'text':
